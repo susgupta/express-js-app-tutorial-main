@@ -1,0 +1,15 @@
+{
+  "name": "star_wars_movie_app_demo",
+  "version": "1.0.0",
+  "description": "A basic movie app demo that is star wars themed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SG",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
+}
